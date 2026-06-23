@@ -1,4 +1,4 @@
-package software.ulpgc.kata2.viewmodel;
+package software.ulpgc.kata3.viewmodel;
 
 import java.util.HashMap;
 import java.util.Iterator;

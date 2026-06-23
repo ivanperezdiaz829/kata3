@@ -1,8 +1,8 @@
-package software.ulpgc.kata2.application;
+package software.ulpgc.kata3.application;
 
-import software.ulpgc.kata2.model.Movie;
-import software.ulpgc.kata2.viewmodel.Histogram;
-import software.ulpgc.kata2.viewmodel.HistogramBuilder;
+import software.ulpgc.kata3.model.Movie;
+import software.ulpgc.kata3.viewmodel.Histogram;
+import software.ulpgc.kata3.viewmodel.HistogramBuilder;
 
 import java.io.IOException;
 import java.util.List;
